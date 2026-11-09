@@ -1,0 +1,12 @@
+[project]
+name = "nhl-statistics-1"
+version = "0.1.0"
+description = ""
+requires-python = ">=3.10"
+dependencies = [
+    "pylint",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
